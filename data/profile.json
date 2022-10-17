@@ -1,20 +1,13 @@
 {
   "name": "Jeniffer Souza",
   "photo": "https://avatars.githubusercontent.com/u/98287941?v=4",
-  "job": "Web Design",
+  "job": "Desenvolvedora de sites",
   "location": "Florianópolis - SC",
   "phone": "(49) 99992-6397",
   "email": "ajenifferbsouza@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/js.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/angular.png"
-      },
+      
       {
         "name": "Html",
         "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/html.png"
@@ -22,13 +15,20 @@
       {
         "name": "Css",
         "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/angular.png"
       }
       
     
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,18 +42,23 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/Jeniffersouza/pokedex-api",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/Jeniffersouza/potfolio-dio",
+      "github": true
+    },
+    {
+      "name": "Bootcamp Javascript Developer",
+      "url": "https://www.dio.me/certificate/D633BA92",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Design",
+      "name": "Desenvolvedora de sites - freelancer",
       "period": "2022 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }

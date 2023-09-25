@@ -23,12 +23,19 @@
       {
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/java.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Jeniffersouza/potfolio-dio/main/data/imgs/react.png"
       }
       
     
     ],
     "softSkills": [
-      "Empatia",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -54,13 +61,24 @@
       "name": "Bootcamp Javascript Developer",
       "url": "https://www.dio.me/certificate/D633BA92",
       "github": true
+    },
+    {
+      "name": "Orientação a Objeto com Java",
+      "url": "https://github.com/Jeniffersouza/OO_Java",
+      "github": true
     }
+    
   ],
   "professionalExperience": [
     {
       "name": "Desenvolvedora de sites - freelancer",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Desenvolvendo sites para infoprodutores com as ferramentas wordpress, elementor, JavaScript, Photoshop e figmaDesenvolvendo sites para infoprodutores com as ferramentas wordpress, elementor, JavaScript, Photoshop e figma <br/> Competências: Design de experiência do usuário (UX) · Programação lógica · Adobe Photoshop · Elementor · HTML5 · CSS · Figma (Software) · Atendimento ao cliente · JavaScript."
+    },
+    {
+      "name": "Product Owner",
+      "period": "2023 - até o momento",
+      "description": "Definir, refinar e priorizar o backlog do produto; <br/> Análise e especificação de novos projetos de acordo com as regras de negócios; <br/> Planejamento de sprint; <br/> Acompanhamentos e ajustes de funcionalidade em cada sprint (daily scrum); <br/> Orientação ao time desenvolvimento a cerca das prioridades do backlog; <br/> Aprovação ou reprovação de resultados apresentados;<br/> Elaboração de User Stories em cima das demandas épicas do Product Backlog; Elaboração e compartilhamento de releases notes para stakeholders.Definir, refinar e priorizar o backlog do produto; Análise e especificação de novos projetos de acordo com as regras de negócios; Planejamento de sprint; Acompanhamentos e ajustes de funcionalidade em cada sprint (daily scrum); Orientação ao time desenvolvimento a cerca das prioridades do backlog; Aprovação ou reprovação de resultados apresentados; Elaboração de User Stories em cima das demandas épicas do Product Backlog; Elaboração e compartilhamento de releases notes para stakeholders. <br/> Competências: Design de experiência do usuário (UX) · Levantamento de requisitos · Gestão ágil de projetos · Scrum · Metodologias Agile"
     }
     
   ]
